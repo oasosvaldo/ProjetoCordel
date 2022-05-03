@@ -85,6 +85,7 @@ section#img01 {
 
 section.normal {
     background-image: url('./imagens/background003.jpg');
+    background-position: right center;
     color: black;
 }
 
